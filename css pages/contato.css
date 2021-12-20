@@ -112,3 +112,4 @@ textarea {
 
     /* Para permitir aos usuários redimensionarem qualquer textarea verticalmente. Ele não funciona em todos os browsers */
     resize: vertical;
+}
